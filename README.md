@@ -1,6 +1,8 @@
 bootstrap-dialog
 ================
 
+This is a Fork of Original from Nakupanda (thanks !!!) with use of Bootstrap3-sass for sass environements.
+
 [![Latest release](https://img.shields.io/github/release/nakupanda/bootstrap3-dialog.svg)](https://github.com/nakupanda/bootstrap3-dialog/releases/latest)
 
 Make use of Bootstrap Modal more monkey-friendly.
