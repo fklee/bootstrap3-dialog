@@ -1,6 +1,6 @@
 {
     "name": "bootstrap3-dialog",
-    "description": "Make use of Bootstrap Modal more monkey-friendly. http://nakupanda.github.io/bootstrap3-dialog/",
+    "description": "Fork from Nakupanda bootstrap3-dialog (https://nakupanda.github.io/bootstrap3-dialog) used with bootstrap3-sass.",
     "version": "1.35.4",
     "keywords": [
         "css",
